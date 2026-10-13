@@ -1,0 +1,16 @@
+NO CONSENT FOR AI/LLM TRAINING OR AI-ASSISTED USE
+
+The owner of this repository does not consent to the scraping, collection,
+use, reproduction, transformation, or analysis of this repository or any of
+its contents for artificial intelligence, machine-learning and large language model training,
+fine-tuning, evaluation, benchmarking, dataset creation, model development,
+or other AI-assisted use.
+
+This notice applies to the entire repository, including all data and documents contained in or associated with it.
+
+No permission is granted by making this repository publicly accessible or by
+any license that does not expressly authorize these activities. The absence
+of technical, contractual, or practical enforcement mechanisms does not waive,
+limit, or otherwise affect the owner's rights or this statement of intent.
+
+Please do not use this repository and its contents for AI/LLM purposes without the owner's express prior permission.

@@ -1,0 +1,4 @@
+# Block all AI training crawlers
+User-agent: *
+Disallow: /
+
